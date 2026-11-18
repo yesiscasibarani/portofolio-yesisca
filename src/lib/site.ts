@@ -1,5 +1,5 @@
-export const SITE_NAME = 'Seasons';
-export const AUTHOR_NAME = 'Your Name';
+export const SITE_NAME = 'Portofolio Yesisca';
+export const AUTHOR_NAME = 'Yesisca Arthadita Sibarani';
 export const SITE_DESCRIPTION = 'A season-aware neobrutalist theme for your blog';
 export const JOB_TITLE = 'Your Job Title';
 export const SITE_URL = 'https://example.com';
